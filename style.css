@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: grey;
+    background-color: #f5f7fb;
     box-sizing: content-box;
 }
 #logo{
@@ -18,4 +18,70 @@ vertical-align: middle;
 header{
     background-color: #fff;
     padding: 10px 0 10px 20px;
+}
+main{
+    background-color: #fff;
+    margin: 60px;
+    width: 80%;
+    padding: 30px;
+}
+.yes{
+    padding: 10px;
+}
+#task{
+    background-color:#1E90FF;
+    padding: 5px;
+    border-radius: 5px;
+}
+#section{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.check{
+    list-style-type: none;   
+}
+#arro{
+    border: 1px solid #7FFFD4;
+    border-radius: 50%;
+    padding: 2px;
+    color: #7FFFD4;
+}
+.one{
+    background-color: #1E90FF;
+    padding: 5px;
+    border-radius: 20px;
+}
+.two{
+    background-color: #BA55D3;
+    padding: 5px;
+    border-radius: 20px;
+}
+.tre{
+    background-color:#3CB371;
+    padding: 5px;
+    border-radius: 20px;
+}
+.for{
+    background-color:#FF8C00;
+    padding: 5px;
+    border-radius: 20px;
+}
+    
+.fiv{
+        background-color:#FF69B4;
+        padding: 5px;
+        border-radius: 20px;
+}
+.six{
+    background-color:#9ACD32;
+    padding: 5px;
+    border-radius:20px;
+}
+
+.croix{
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+    color:red;
 }
